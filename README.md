@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AceDeck10 (Austine Declan)
+- 👋 Hi, I’m @AceDeck10 (Austine Declan Odhiambo)
 - 👀 I’m interested in Web App development(back end as well as frontend), Game development, Software development in general
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web applications, Android applications, Games
+- 💞️ I’m looking to collaborate on Web applications, Android applications, Desktop Applications and Games
+- 📖 I've codded in Python (most recently), PHP (recently), Javascript (recently), C#, Java and C++
 - 📫 How to reach me austine.declan@gmail.com
 
 <!---
