@@ -7,7 +7,10 @@ Python (intermediate)
 PHP (intermediate)
 JavaScript/TypeScript (intermediate)
 C#, Java, C++
-🌱 Currently, I’m deepening my expertise in Rust and expanding my knowledge in cutting-edge technologies.
+
+•	Frameworks: React, Svelte Kit, Django, Next.js, Symfony, Laravel, ASP.NET, .NET MAUI
+
+🌱 Currently, working as a Systems analyst and Developer at Powerbase Interactive (PBI) Kenya: https://pbikenya.com/.
 
 💼 I’m actively seeking collaboration on web applications, Android applications, desktop software, and games. My goal is to kickstart a successful career in software development, with a particular interest in innovative projects that challenge and grow my skills.
 
