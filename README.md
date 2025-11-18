@@ -9,6 +9,7 @@ JavaScript/TypeScript (intermediate)
 C#, Java, C++
 
 •	Frameworks: React, Svelte Kit, Django, Next.js, Symfony, Laravel, ASP.NET, .NET MAUI
+•	Experience Building: Information Management Systems such as small scale Enterprise Management Systems, Learning Management Systems and Inventory Management Systems
 
 🌱 Currently, working as a Systems analyst and Developer at Powerbase Interactive (PBI) Kenya: https://pbikenya.com/.
 
